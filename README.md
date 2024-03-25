@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksander Banasiak</h1>
 <h3 align="center">I am a computer science student who is passionate about programming, mainly in Java.</h3>
 
-- 🔭 I’m currently working on **CalCount**
+- 🔭 I’m currently working on **weatherApp**
 
 - 🌱 I’m currently learning **Spring boot, Mockito, JUnit**
 
